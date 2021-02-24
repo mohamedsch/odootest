@@ -15,6 +15,8 @@ The integration codes :
 
  </form>
  
+ https://test318.odoo.com/
+ 
  
  2####
  
@@ -29,3 +31,5 @@ The integration codes :
 </center>
 
  </form>
+ 
+ https://test318.odoo.com/2
