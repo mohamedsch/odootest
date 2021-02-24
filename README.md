@@ -18,7 +18,6 @@ The integration codes :
  
  2####
  ```
- <form string="Embedded Webpage" version="7.0" edit="false" create="false"> 
 
 <form string="Embedded Webpage" version="7.0" edit="false" create="false"> 
     <div class="embed-responsive embed-responsive-4by3">  
